@@ -1,3 +1,4 @@
 Name: Umapriyah
 Matric: 251594263
 Course: Data Science
+Hobbies: Playing
